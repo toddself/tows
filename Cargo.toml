@@ -1,6 +1,6 @@
 [package]
 name = "truncate_string_at_whitespace"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Todd Kennedy <todd@selfassembled.org>"]
 edition = "2018"
 license = "Apache-2.0"
